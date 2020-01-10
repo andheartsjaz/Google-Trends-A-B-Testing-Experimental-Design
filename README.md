@@ -6,4 +6,3 @@
 
 **NOTE: To view slides: please enable the nbextensions for Jupyter Notebook! The toggle switch for this can be found in the top-right corner of the Notebook. Thanks! :) **
 
-Contributor currently fixing issue between Jupyter Notebook/RISE extension and display of images. (Jan 8, 2020)
