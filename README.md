@@ -1,4 +1,6 @@
-# Capstone 1: Experimental Design
+# Google-Trends-A-B-Testing-Experimental-Design
+
+> Description: using experimental design, testing the significance of Google Trends data - specifically, testing the validity of using Google Trends - testing keywords "data science" and "data scientist". 
 
 > Link to Notebook: [Capstone 1](https://github.com/andheartsjaz/capstone_1/blob/master/capstone_presentation.ipynb)
 
