@@ -17,7 +17,4 @@
 >>This research can help validate the use and efficacy of Google Trends data as an accurate reflection of the population at large.  Due to the highly specialized nature of this occupation, obtaining validity on the progress of its establishment into the normal labor canon could suppress the rampant cases of Imposter Syndrome that has been well-documented  Perhaps a call to action to others in the field to continue urging them to write about their research and experiences. 
 >>I believe the following would be interested in my research: The tech community, educators, businesses, job-seekers, enthusiasts and competitive researchers. With intention, I’d hope that my audience gains: insight into the voice of the nation, closure for professionals who have changed careers, and more than anything, a sense of purpose.
 
-Link to Notebook: [Capstone 1](https://github.com/andheartsjaz/capstone_1/blob/master/capstone_presentation.ipynb)<br>Link to PDF slides (no code): [PDF](https://github.com/andheartsjaz/capstone_1/blob/master/capstone_presentation_pdf.pdf)
-
-**NOTE: To view slides: please enable the nbextensions for Jupyter Notebook! The toggle switch for this can be found in the top-right corner of the Notebook. Thanks! :) **
 
