@@ -1,10 +1,9 @@
 # Google-Trends-A-B-Testing-Experimental-Design
-**Topic: Big Data Utilization<br>Research Proposal: Approved 12/09/19<br><br>Proposal Grade: 10/10**
+**Topic: Big Data Utilization<br>Research Proposal: Approved 12/09/19<br>Proposal Grade: 10/10**
 
 **Hypothesis**:
-- Has interest in Data Scientists increased?</i>
+- <i>Has interest in Data Scientists increased?</i>
 [Primary Query](https://trends.google.com/trends/explore?date=2012-01-01%202019-12-01&geo=US&q=data%20scientist)
-
 - <i>Has interest in Data Scientists increased since the Harvard Business Review article of Oct. 2012?</i>
 [HBR article](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
 
