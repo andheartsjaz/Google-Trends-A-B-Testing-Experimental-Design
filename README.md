@@ -1,5 +1,10 @@
 # Google-Trends-A-B-Testing-Experimental-Design
 **Topic: Big Data Utilization<br>Research Proposal: Approved 12/09/19<br>Proposal Grade: 10/10**
+**Tools**:
+ - python, numpy, scipy, seaborn and pandas
+ - filtering, grouping, sorting
+ - aggregations, descriptive stats
+ - tests for statistical significance
 
 **Hypothesis**:
 - <i>Has interest in Data Scientists increased?</i>
